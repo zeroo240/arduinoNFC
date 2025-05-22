@@ -1,0 +1,12 @@
+[Nano]     --->    [RC522]
+ D10       --->     SDA
+ D13       --->     SCK
+ D11       --->     MOSI
+ D12       --->     MISO
+ D9        --->     RST
+ GND       --->     GND
+ 3.3V      --->     3.3V
+
+[Nano]     --->    [LED]
+ D3        --->   Resistor 220Ω ---> Anoda (kaki panjang)
+ GND       --->   Katoda (kaki pendek)
